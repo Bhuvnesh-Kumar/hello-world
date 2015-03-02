@@ -1,2 +1,3 @@
 
-new to git...practising git commands.
+
+git is repository
